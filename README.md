@@ -1,4 +1,4 @@
-# Restuarant Reservation
+# Online Reservation Platforms
 
 ## Introduction
 
